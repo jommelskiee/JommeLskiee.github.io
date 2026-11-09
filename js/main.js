@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Jommel Amor", "a Desktop Engineer", "a father of two", "hungry", "sleepy", "about to fall asleep on my wklrjlwkrjs'dlf"],
+      strings: ["Jommel Amor", "a Desktop Engineer", "a father of two", "hungry", "tired", "sleepy", "about to fall asleep on my keyboawklrjlwkrjs'dlf"],
       typeSpeed: 100,
       loop: true,
     });
